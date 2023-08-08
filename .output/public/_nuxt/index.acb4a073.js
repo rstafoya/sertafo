@@ -1,0 +1,1 @@
+import{_ as o,c as t,o as n,F as s,a as e}from"./entry.4243c4b2.js";const c={},a=e("h1",null,"Hola mundo",-1),r=e("p",null,"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, odio!",-1);function i(l,_){return n(),t(s,null,[a,r],64)}const m=o(c,[["render",i]]);export{m as default};
