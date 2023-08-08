@@ -1,0 +1,1 @@
+import{_ as o,l as t,k as n,F as s,m as e}from"./entry.ab4cac6d.js";const c={},a=e("h1",null,"Hola mundo",-1),r=e("p",null,"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, odio!",-1);function i(l,_){return n(),t(s,null,[a,r],64)}const m=o(c,[["render",i]]);export{m as default};
