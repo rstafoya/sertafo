@@ -5,19 +5,22 @@ nav
 		li
 			NuxtLink(to='/clases') Mis clases
 		li
+			NuxtLink(to='/herramientas') Herramientas
+		li
 			NuxtLink(to='/aqui') Esta página
 </template>
 
 <style scoped>
 	nav{
-		border-radius: 10px;
 		padding-left: 1rem;
 		background: darkorange;
 		color: white;
 		display: flex;
-		line-height: 3rem;
+		line-height: 5rem;
 		align-content: space-between;
 		font-family: "Open sans", "Roboto", "arial", sans-serif;
+		box-shadow: 0 2px 4px rgba(0,0,0,.3);
+		margin-bottom: 2rem;
 	}
 	ul{
 		display: flex;

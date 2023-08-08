@@ -1,0 +1,18 @@
+body, html{
+	height: 100%;
+}
+.card{
+	border: 1px solid silver;
+	border-radius: 0.6rem;
+	margin: 1rem;
+}
+.card-content{
+	padding: 1rem 1rem 0 1rem;
+}
+.card-title{
+	background: #eee;
+	font-size: 130%;
+	margin: -.6rem -.6rem 1.5rem -.6rem;
+	padding: 3px 1rem;
+	border-radius: 0.4rem;
+}
